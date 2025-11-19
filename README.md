@@ -2,20 +2,6 @@
 
 ## Instrucciones:
 ```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
 Calcula el area de un triangulo usando una combinacion de operadores aritmeticos y guarda el resultado
 en una variable para mostrarlo por consola.
 ```
