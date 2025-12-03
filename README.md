@@ -12,7 +12,7 @@ Realiza los siguientes ejercicios, puedes hacer uso de variables o imprimir el r
 
 4) Consigue cambiar el valor de 1 a 16 desplazando sus bits N posiciones.
 
-3) Obten un 15 aplicando un operador bitwise al 6 y el 9.
+5) Obten un 15 aplicando un operador bitwise al 6 y el 9.
 
 ```
 
