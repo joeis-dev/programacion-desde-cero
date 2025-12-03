@@ -2,8 +2,7 @@
 
 ## Instrucciones:
 ```
-
-Modifica el script main.py para que en lugar de mostrar la palabra "Mundo" muestre tu nombre.
+Realiza los siguientes ejercicios, puedes hacer uso de variables o imprimir el resultado directamente en la consola.
 
 1) Obten 0 como resultado de aplicar un operador bitwise entre el 10 (1010) y 5 (0101)
 
